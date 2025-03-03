@@ -72,4 +72,5 @@ Deploy as a web application for real-time wildfire detection.
 Integrate geospatial data for enhanced predictions.
 📜 License
 This project is open-source under the MIT License.
+THE DATASET USED TO TRAIN THE MODEL : https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset
 
